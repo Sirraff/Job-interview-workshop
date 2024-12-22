@@ -4,9 +4,16 @@ Welcome to the Job Interview Workshop GitHub repository! 🎓  This repository i
 What You'll Find:
 
     LeetCode Practice Problems: Carefully selected problems categorized by topic to strengthen your problem-solving skills.
-    Interview Preparation Resources: Tips, guides, and best practices for tackling coding interviews and system design challenges.
+    Interview Preparation Resources: Tips, guides, and best practices for tackling coding interviews.
     Coding Topics: Focus on data structures, algorithms, and other key CS fundamentals.
     Bonus: Soft skills tips to navigate HR interviews and behavioral questions.
+
+What You won't Find:
+
+    Motivation. Even though you will have as much support as I can give you, motivation has to come from within!
+    System Design prep. This is mostly asked in more senior roles, not internships or early career interviews
+    
+
 
 Whether you're preparing for undergraduate internships or your first full-time job in tech, this repository serves as your go-to resource for structured preparation.
 
