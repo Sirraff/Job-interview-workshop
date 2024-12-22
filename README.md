@@ -12,6 +12,7 @@ What You Won't Find:
 
     Motivation. Even though you will have as much support as I can give you, motivation has to come from within!
     System Design prep. This is mostly asked in more senior roles, not internships or early career interviews
+    A magic way to get better at data structure and algorithms. It takes, time, effort and patience!
     
 
 
