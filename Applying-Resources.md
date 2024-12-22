@@ -8,7 +8,7 @@
    - Apply directly -- Look at the careers section at companies that you are interested in
 
 
-### Job Posting Repos:
+### Job Postings Repos
   - [Summer 25' Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
   - [New Grad Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
 
