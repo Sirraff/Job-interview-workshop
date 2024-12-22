@@ -20,9 +20,9 @@ Whether you're preparing for undergraduate internships or your first full-time j
 
 ## Table of Contents
     
-    - [Getting Started](https://github.com/Sirraff/Job-interview-workshop/blob/main/Getting-Started.md)
-    - [Resources](https://github.com/Sirraff/Job-interview-workshop/blob/main/Applying-Resources.md)
-    - [Problem Sets](https://github.com/Sirraff/Job-interview-workshop/tree/main/Leetcode-Problems)
+[Getting Started](https://github.com/Sirraff/Job-interview-workshop/blob/main/Getting-Started.md)
+[Resources](https://github.com/Sirraff/Job-interview-workshop/blob/main/Applying-Resources.md)
+[Problem Sets](https://github.com/Sirraff/Job-interview-workshop/tree/main/Leetcode-Problems)
 
 💻 Contributions Welcome! If you have additional resources, suggestions, or solutions you'd like to share, feel free to open a pull request. Together, we can build a community that uplifts and prepares all future CS professionals!
 
