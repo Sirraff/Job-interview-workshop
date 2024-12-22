@@ -3,7 +3,7 @@
 ### Job Boards
 
    - [Simplify](https://simplify.jobs/) - Great extension for resume filling and tracking applications
-   - [Handshake](https://app.joinhandshake.com/login) - Great place to find early career jobs/Internships(active CSUMB email is needed)
+   - [Handshake](https://app.joinhandshake.com/login) - Great place to find early career jobs/Internships(active ".edu" email is needed)
    - [Linkedin](https://www.linkedin.com/) - Ok job application website... the value here lies more within networking
    - Apply directly -- Look at the careers section at companies that you are interested in
 
