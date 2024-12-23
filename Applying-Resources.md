@@ -14,7 +14,7 @@
 
 ### Resume Template and Tips:
   - [Resume template for C.S](https://cs.unc.edu/student-life/career/tech-resume-samples/)
-  ` [My redacted resume](https://docs.google.com/document/d/1fEIdKuQAmLbmX6X0pKOGi8F-pX5vS2Jq/edit)
+  - [My redacted resume](https://docs.google.com/document/d/1fEIdKuQAmLbmX6X0pKOGi8F-pX5vS2Jq/edit)
   - [How to write ATS friendly resumes](https://create.microsoft.com/en-us/learn/articles/how-to-write-ats-friendly-resume)
   - [FAQ](https://www.reddit.com/r/resumes/wiki/index/faq/)
 
