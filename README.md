@@ -18,6 +18,8 @@ What You Won't Find:
 
 Whether you're preparing for undergraduate internships or your first full-time job in tech, this repository serves as your go-to resource for structured preparation.
 
+
+
 ## Table of Contents
     
 * [Getting Started](https://github.com/Sirraff/Job-interview-workshop/blob/main/Getting-Started.md)
