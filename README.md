@@ -26,7 +26,7 @@ Whether you're preparing for undergraduate internships or your first full-time j
 
 * [Resources](https://github.com/Sirraff/Job-interview-workshop/blob/main/Applying-Resources.md)
 
-* [Problem Sets](https://github.com/Sirraff/Job-interview-workshop/tree/main/Leetcode-Problems) (We will build this as the Wokrshop progresses)
+* [Problem Sets](https://github.com/Sirraff/Job-interview-workshop/tree/main/Leetcode-Problems) (We will build this as the workshop progresses)
   
 * Recording of Our Sessions - Comming Soon!
 
