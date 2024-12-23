@@ -35,3 +35,10 @@ Whether you're preparing for undergraduate internships or your first full-time j
 💻 Contributions Welcome! If you have additional resources, suggestions, or solutions you'd like to share, feel free to open a pull request. Together, we can build a community that uplifts and prepares all future CS professionals!
 
 Happy coding and good luck! 🌟
+
+
+
+
+## License
+This repository is licensed under the [Creative Commons Zero Liscence (v1.0 Universal)]([https://creativecommons.org/licenses/by/4.0/](https://github.com/Sirraff/Job-interview-workshop/blob/main/LICENSE)). You are free to share, adapt, and use this content, provided you give appropriate credit.
+
