@@ -22,7 +22,7 @@ Whether you're preparing for undergraduate internships or your first full-time j
 
 ## Table of Contents
     
-* [Getting Started](https://github.com/Sirraff/Job-interview-workshop/blob/main/Getting-Started.md)
+* [Getting Started](https://github.com/Sirraff/Job-interview-workshop/blob/main/LICENSE)
 
 * [Resources](https://github.com/Sirraff/Job-interview-workshop/blob/main/Applying-Resources.md)
 
