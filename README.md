@@ -33,8 +33,12 @@ Whether you're preparing for undergraduate internships or your first full-time j
   
 
 💻 Contributions Welcome! If you have additional resources, suggestions, or solutions you'd like to share, feel free to open a pull request. Together, we can build a community that uplifts and prepares all future CS professionals!
+<br><br>
+<p align="center">
+    <strong>Happy coding and good luck! 🌟</strong>
+</p>
 
-Happy coding and good luck! 🌟
+<br><br>
 
 
 
